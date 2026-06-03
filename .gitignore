@@ -3,7 +3,9 @@ __pycache__/
 *.py[cod]
 
 # Veritabanı Dosyaları 
-*.db 
+astreoid_risk_analyzed.db 
+astronomy_vis_arch.db 
+mars_insight_sol_data.db  
 
 # Model Dosyaları 
 *.pkl
