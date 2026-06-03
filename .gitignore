@@ -1,0 +1,12 @@
+# Önbellek Dosyaları
+__pycache__/ 
+*.py[cod]
+
+# Veritabanı Dosyaları 
+*.db 
+
+# Model Dosyaları 
+*.pkl
+
+# Jupyter Notebook Yedekleri
+.ipynb_checkpoints/
