@@ -8,7 +8,7 @@ astronomy_vis_arch.db
 mars_insight_sol_data.db  
 
 # Model Dosyaları 
-*.pkl
+astreoid_impact_classification_models/model.pkl
 
 # Jupyter Notebook Yedekleri
 .ipynb_checkpoints/
