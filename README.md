@@ -42,6 +42,7 @@
     <li>💾 <b>Dosya İşlemleri</b> : os </li>
     <li>🖼️ <b>Görsel İşleme </b> : io ve Pillow </li>
     <li>📅 <b>Tarih ve Zaman İşlemleri</b> : datetime </li>
+    <li>💻 <b>GUI Programlama</b> : tkinter </li>
     <li>📊 <b>Veri Analizi ve Matematiksel İşlemler </b>: Pandas ve Numpy</li>
     <li>📈 <b>Veri Görselleştirme</b>: Matplotlib ve Seaborn</li>
     <li>🗄️ <b>Veritabanı</b> : SQLite</li>
