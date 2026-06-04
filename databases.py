@@ -196,6 +196,11 @@ def misim_get_data():
     misim_db_connect.commit() 
     misim_db_connect.close() 
 
+if __name__ == "__main__": 
+    ava_get_data() 
+    arad_get_data() 
+    misim_get_data() 
+
    
 
 
