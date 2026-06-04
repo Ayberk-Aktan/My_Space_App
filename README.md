@@ -66,7 +66,31 @@ Aşağıdaki tabloda modellerin doğruluk oranları, hata metrikleri ve eğitim-
   <p>Bu tablodaki sonuçlara göre en iyi modelin Rassal Ormanlar (Random Forrest) olduğu görülmüş ve projede kullanılması için (.pkl) dosya formatında dışarıya aktarılmıştır. </p>
 </p>
 </p>
-<hr> 
+<hr>
+<h5>🚀Kurulum ve Çalıştırma</h5>
+<p>
+Uygulamayı yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları sırasıyla takip edebilirsiniz:
+</p>
+ <li>
+        <b>Depoyu Klonlayın:</b>
+        <pre><code>git clone https://github.com/Ayberk-Aktan/My_Space_App.git</code></pre>
+    </li>
+    <li>
+        <b>Proje Dizinine Gidin:</b>
+        <pre><code>cd My_Space_App</code></pre>
+    </li>
+    <li>
+        <b>Gerekli Kütüphaneleri Yükleyin:</b>
+        <pre><code>pip install -r requirements.txt</code></pre>
+    </li>
+    <li>
+        <b>Uygulamayı Başlatın:</b>
+        <pre><code>python main.py</code></pre>
+    </li>
+   <p>
+    ⚠️ ÖNEMLİ NOT: Uygulamayı ilk kez çalıştırmadan önce, API işlemleri ve yerel SQLite veritabanını başlatmak için (databases.py) ve yapay zeka modelini oluşturmak için (.pkl) risk_model_random_forrest.ipynb notebook'unu bir defaya mahsus çalıştırmanız gerekmektedir.
+   </p>
+<hr>
 <h5>⚖️ Lisans</h5> 
 <p>
   Bu proje <strong>Apache License 2.0</strong> ile lisanslanmıştır. Detaylı bilgi için <a href="LICENSE">LICENSE</a> dosyasına göz atabilirsiniz.
